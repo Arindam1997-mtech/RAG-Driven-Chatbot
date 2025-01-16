@@ -3,6 +3,8 @@
 
 #### Overview  
 This web application integrates advanced Retrieval-Augmented Generation (RAG) with locally hosted Large Language Models (LLMs) to deliver precise and context-aware responses based on uploaded PDF documents. The app emphasizes user privacy and efficient data processing, leveraging cutting-edge tools for seamless interaction and retrieval.
+![image](https://github.com/user-attachments/assets/776d709f-313b-4a4f-8c38-af9b9f65f8d6)
+
 
 #### Core Functionality  
 - **PDF Upload & Processing**: Users can upload PDF files, which are processed into manageable chunks for accurate information retrieval.  
