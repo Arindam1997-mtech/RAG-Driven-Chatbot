@@ -45,3 +45,8 @@ This web application integrates advanced Retrieval-Augmented Generation (RAG) wi
      ```  
 
 This system offers a streamlined and secure way to query documents using the latest advancements in LLMs and retrieval mechanisms.
+## References:
+1. Krish Naik's Updated langchain Playlist:https://youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&feature=shared
+2. Pavan Belagatti Linkedin profile: https://www.linkedin.com/in/pavan-belagatti/
+
+
